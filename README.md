@@ -23,6 +23,7 @@ Supported Languages
 
 These are basically languages that I use / had to use, so I went adding them.
 
+- Python
 - Racket
 
 More coming soon!
